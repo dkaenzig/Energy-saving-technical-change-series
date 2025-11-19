@@ -4,4 +4,4 @@ This repository hosts the quarterly input-saving technical change series as cons
 
 The data can be found in: [input_saving_tech_series.csv](./input_saving_tech_series.csv)
 
-The relevant information on the construction of the series is in: [Känzig Williamson (2025)](./Känzig Williamson 2025 - ESTC.pdf)
+The relevant information on the construction of the series is in: [Känzig Williamson (2025)](./K%C3%A4nzig%20Williamson%202025%20-%20ESTC.pdf)
